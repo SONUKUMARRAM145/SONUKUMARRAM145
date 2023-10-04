@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sonu9330kumar@gmail.com**
 
-- ⚡ Fun fact **I think I like to problem solvings.**
+- ⚡ Fun fact **I think I like problem solvings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
