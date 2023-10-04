@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Web development using Mern**
 
-- 💬 Ask me about **C,C++,Html5,CSS,JavaScript,oops**
+- 💬 Ask me about **C,C++,DSA,Html5,CSS,JavaScript,oops**
 
 - 📫 How to reach me **sonu9330kumar@gmail.com**
 
-- ⚡ Fun fact **I think I like to learn new things in tech.**
+- ⚡ Fun fact **I think I like to problem solvings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
